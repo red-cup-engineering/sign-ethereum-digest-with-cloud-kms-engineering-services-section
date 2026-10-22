@@ -16,5 +16,10 @@
   },
   "dependencies": {
     "ethers": "6.17.0"
+  },
+  "license": "MIT",
+  "funding": {
+    "type": "individual",
+    "url": "https://github.com/561-group/.github/blob/main/TIPS.md"
   }
 }
