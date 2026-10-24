@@ -1,9 +1,9 @@
 {
-  "name": "@red-cup-engineering/sign-ethereum-digest-with-cloud-kms-services-section",
+  "name": "@red-cup-engineering/sign-ethereum-digest-with-cloud-kms-engineering-services-section",
   "version": "1.0.0",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/red-cup-engineering/sign-ethereum-digest-with-cloud-kms-services-section.git"
+    "url": "git+https://github.com/red-cup-engineering/sign-ethereum-digest-with-cloud-kms-engineering-services-section.git"
   },
   "type": "module",
   "exports": "./src/index.mjs",
