@@ -1,0 +1,24 @@
+{
+  "name": "@red-cup-engineering/sign-ethereum-digest-with-cloud-kms-engineering-services-section",
+  "version": "1.0.2-dev.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/red-cup-engineering/sign-ethereum-digest-with-cloud-kms-engineering-services-section.git"
+  },
+  "type": "module",
+  "exports": "./src/index.mjs",
+  "files": [
+    "src"
+  ],
+  "scripts": {
+    "check": "node --check src/index.mjs"
+  },
+  "dependencies": {
+    "ethers": "6.17.0"
+  },
+  "license": "MIT",
+  "funding": {
+    "type": "individual",
+    "url": "https://github.com/561-group/.github/blob/main/TIPS.md"
+  }
+}
